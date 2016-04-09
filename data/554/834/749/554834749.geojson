@@ -1,0 +1,54 @@
+{
+  "id": 554834749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"ES",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        85682879,
+        102191581,
+        404345933,
+        85633129,
+        404227393,
+        101748387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"20080612"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345933,
+            "locality_id":101748387,
+            "macroregion_id":404227393,
+            "postalcode_id":554834749,
+            "region_id":85682879
+        }
+    ],
+    "wof:id":554834749,
+    "wof:lastmodified":1460100302,
+    "wof:name":"48902",
+    "wof:parent_id":"101748387",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}

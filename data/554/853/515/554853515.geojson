@@ -1,0 +1,54 @@
+{
+  "id": 554853515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"ES",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        85682765,
+        102191581,
+        404337319,
+        85633129,
+        404227373,
+        101904315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"20089085"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404337319,
+            "locality_id":101904315,
+            "macroregion_id":404227373,
+            "postalcode_id":554853515,
+            "region_id":85682765
+        }
+    ],
+    "wof:id":554853515,
+    "wof:lastmodified":1460100916,
+    "wof:name":"33611",
+    "wof:parent_id":"101904315",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
