@@ -9,6 +9,7 @@
     "geom:latitude":0.0,
     "geom:longitude":0.0,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         85682769,
@@ -36,10 +37,11 @@
         }
     ],
     "wof:id":554837509,
-    "wof:lastmodified":1460100378,
+    "wof:lastmodified":1474569789,
     "wof:name":"25350",
     "wof:parent_id":"101844697",
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
